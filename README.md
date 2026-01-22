@@ -20,7 +20,7 @@ This project investigates the relationship between gaming habits and key life in
 
 ## Data Source
 
-## The dataset used in this analysis is available on Kaggle:
+The dataset used in this analysis is available on Kaggle:
 
 https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-performance/data
 
@@ -29,10 +29,16 @@ https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-per
 ## This repository is organized as follows:
 
 Dashboard Screenshots
+
 Data Cleaning
+
 Interactive Dashboard
+
 Git ignore file
+
 Readme file
+
+## Interactive Dashboard
 
 
 <img width="1793" height="1010" alt="Interactive Dashboard 1" src="https://github.com/user-attachments/assets/05c437e2-6a3f-4237-b457-ba721f262fa1" />
