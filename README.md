@@ -12,8 +12,11 @@ An interactive data exploration of how gaming habits correlate with concentratio
 ## Team Members
 
 Athanasios Sakatziadis
+
 Kalliopi Giannoukou
+
 Evangelia Katsanou
+
 Project Description
 
 
