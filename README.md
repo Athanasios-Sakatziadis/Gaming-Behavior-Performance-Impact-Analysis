@@ -49,7 +49,8 @@ Readme file
 <img width="1793" height="1010" alt="Interactive Dashboard 1" src="https://github.com/user-attachments/assets/05c437e2-6a3f-4237-b457-ba721f262fa1" />
 
 
-<img width="1793" height="1012" alt="Interactive Dashboard 2" src="https://github.com/user-attachments/assets/e9cd561a-63bf-430c-a7dd-997feb2c427e" />
+
+<img width="1920" height="1087" alt="Interactive Dashboard 2" src="https://github.com/user-attachments/assets/878a94b7-a00c-4b63-8320-5e7237930a82" />
 
 
 
