@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/prince7489/gaming-hours-vs-academic-and-work-per
 
 
 
-## This repository is organized as follows:
+## This repository is organized as follows
 
 Dashboard Screenshots
 
